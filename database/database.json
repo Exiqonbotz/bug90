@@ -2403,6 +2403,42 @@
       "uang": 10000,
       "lastclaim": 1723261796502,
       "lastrampok": 1723261796502
+    },
+    "43650229890690@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1723314439803,
+      "lastrampok": 1723314439803
+    },
+    "43650229890695@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1723316759008,
+      "lastrampok": 1723316759008
+    },
+    "43650229890694@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1723316759032,
+      "lastrampok": 1723316759032
+    },
+    "43650229890692@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1723316759128,
+      "lastrampok": 1723316759128
     }
   },
   "groups": {
@@ -4302,6 +4338,54 @@
       "antilink": false,
       "antipromotion": false,
       "antidelete": false
+    },
+    "43650229890690@s.whatsapp.net": {
+      "ntsfw": false,
+      "welcome": false,
+      "setinfo": false,
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antidelete": false,
+      "ntnsfw": false
+    },
+    "120363305836001898@g.us": {
+      "ntsfw": false,
+      "welcome": false,
+      "setinfo": false,
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antidelete": false,
+      "ntnsfw": false
     }
   },
   "database": {},
@@ -4422,6 +4506,25 @@
       "autotype": false
     },
     "436502298906621@s.whatsapp.net": {
+      "anticall": false,
+      "antiswview": false,
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false
+    },
+    "43650229890690@s.whatsapp.net": {
       "anticall": false,
       "antiswview": false,
       "totalhit": 0,
